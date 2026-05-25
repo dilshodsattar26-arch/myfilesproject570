@@ -1,0 +1,8 @@
+{
+    "name": "apimodel-service",
+    "version": "1.0.570",
+    "private": false,
+    "environment": "production",
+    "build_id": 465,
+    "allow_public_access": true
+}
